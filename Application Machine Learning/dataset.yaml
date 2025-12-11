@@ -1,0 +1,5 @@
+train: images/bottle.v1i.yolov8/train/images
+val: images/bottle.v1i.yolov8/train/images
+
+nc: 1
+names: ['bottle']
